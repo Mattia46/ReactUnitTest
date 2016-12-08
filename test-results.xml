@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.027000000000000003" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2016-12-08T19:58:33" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="createId" timestamp="2016-12-08T19:58:33" tests="1" failures="0" time="0.002">
+    <testcase name="createId should convert a description into a unique id" time="0.002" classname="should convert a description into a unique id">
+    </testcase>
+  </testsuite>
+  <testsuite name="First Component" timestamp="2016-12-08T19:58:33" tests="1" failures="0" time="0.025">
+    <testcase name="First Component should render" time="0.025" classname="should render">
+    </testcase>
+  </testsuite>
+</testsuites>
